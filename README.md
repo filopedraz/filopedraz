@@ -18,4 +18,4 @@ Trying to build something private and valuable for Companies and Developers with
 
 ### 🤙 Contact
 
-Drop me a message at filippo (at) joandko.io
+Drop me a message at filippo.pedrazzini (at) joandko.io
