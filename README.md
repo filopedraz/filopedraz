@@ -2,7 +2,11 @@
 
 ### 🤖 About
 
-I am a Computer Engineer with a Double Master Degree in Data Science and Big Data. 🇮🇹 Italian, Love to play 🎾 Padel, Traveling around the 🌍 World.
+I am a Computer Engineer with a Double Master Degree in Data Science and Big Data. 
+
+- 🇮🇹 Italian
+- 🎾 Padel Addicted
+- 🌍 Digital Nomad
 
 ### 💼 Work
 
