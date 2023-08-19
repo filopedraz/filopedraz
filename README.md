@@ -1,16 +1,17 @@
-### Hi there 👋
+<h1 align="center"> Yoo 🤙 </h1>
 
-<!--
-**filippopedrazzinifp/filippopedrazzinifp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🤖 About
 
-Here are some ideas to get you started:
+I am a Computer Engineer with a Double Master Degree in Data Science and Big Data. 🇮🇹 Italian, Love to play 🎾 Padel, Traveling around the 🌍 World.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💼 Work
+
+Currently working at [Prem](https://premai.io). My past roles include CTO at 🇸🇪 [Grand](https://grand.io) and Data Engineer at 🇸🇪 [Gavagai](https://gavagai.io). Check out more about my experience [here](./docs/work_experience.md).
+
+### 🛠️ Open Source
+
+Trying to build something private and valuable for Companies and Developers with [Prem](https://github.com/premAI-io/prem-app).
+
+### 🤙 Contact
+
+Drop me a message at filippo (at) joandko.io
