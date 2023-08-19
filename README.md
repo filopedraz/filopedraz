@@ -2,7 +2,7 @@
 
 ### 🤖 About
 
-I am a Computer Engineer with a Double Master Degree in Data Science and Big Data. 
+I am a Computer Engineer with a Double Master in Data Science and Big Data. 
 
 - 🇮🇹 Italian
 - 🎾 Padel Addicted
