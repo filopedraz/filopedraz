@@ -2,7 +2,6 @@
 
 ## Terminal Tools and Dependencies
 
-* Fig
 * Starship
 * Warp
 * pipx
@@ -29,13 +28,10 @@ Next generation lightning fast Terminal written in Rust
 
 * VSCode
 * ExpressVPN
-* Xnapper
 * GitKraken [Dark with Menlo font]
 * Firefox
-* Brave
 * Notion
 * Slack
-* Sunsama
 * Figma
 * Loom
 * Docker
@@ -61,9 +57,7 @@ Github Dark Theme
 * Prettier
 * Python
 * Remote
-* Thunder Client
 * Project Manager
-* Gitlab Workflow
 * Sourcery
 * Git Graph
 * CodeSnap
@@ -71,6 +65,7 @@ Github Dark Theme
 * JavaScript and TypeScript Nightly
 * Marp
 * Highlight Matching Tag
+* Rust
 
 ### Settings for Python `settings.json`
 
@@ -90,55 +85,12 @@ Github Dark Theme
 }
 ```
 
-### Debugger for Next.js `launch.json`
-
-```json
-{
-  "version": "0.2.0",
-  "configurations": [
-    {
-      "name": "Next.js: debug server-side",
-      "type": "node-terminal",
-      "request": "launch",
-      "command": "npm run dev"
-    },
-    {
-      "name": "Next.js: debug client-side",
-      "type": "chrome",
-      "request": "launch",
-      "url": "http://localhost:3000"
-    },
-    {
-      "name": "Next.js: debug full stack",
-      "type": "node-terminal",
-      "request": "launch",
-      "command": "npm run dev",
-      "serverReadyAction": {
-        "pattern": "started server on .+, url: (https?://.+)",
-        "uriFormat": "%s",
-        "action": "debugWithChrome"
-      }
-    }
-  ]
-}
-```
-
 ## Workflows
 
-* Slack connected to Notion for all the comments and actions happening
-* Gitlab connected to Slack with webhook
+* Slack connected to GitHub
 
 ## Newsletters
 
 * TLDR
-* TLDR Crypto
-* Web Tools Weekly
-* PyCoders Weekly
-* Real Python
-* Bytes
-* Console.dev
-* Talk Python
-* VSCode.Email
-* Bitcoin Magazine
-* The Hacker News
-* Django Newsletter
+* TLDR AI
+* Console Dev
