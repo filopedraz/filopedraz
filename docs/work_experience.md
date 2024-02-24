@@ -4,19 +4,19 @@
 
 ### 🇸🇪 CTO [@Grand](https://grand.io)
 
-Tech stack, product, and architecture definition. Backend Development, Code Reviews, and DevOps. `Technologies: Django, React, Postgresql, Meilisearch.`
+Tech stack, product, and architecture definition. Backend Development, Code Reviews, and DevOps.
 
 ### 🇸🇪 MLOps Engineer [@Gavagai](https://gavagai.io)
 
-Developing AI-powered chatbots to handle customer support. My contribution ranges from Machine Learning model development to Software Architecture design, with a specific focus on scalability. Our solution consists of a web application employing state-of-the-art technologies in natural language processing, machine learning, and deep learning. `Technologies: Python, Django, Docker, Kubernetes, Elasticsearch, Redis, Mongo, Postgresql, Nginx, Pytorch, Tensorflow.`
+Developing AI-powered chatbots to handle customer support. My contribution ranges from Machine Learning model development to Software Architecture design, with a specific focus on scalability. Our solution consists of a web application employing state-of-the-art technologies in natural language processing, machine learning, and deep learning.
 
 ### 🇮🇹 Strategic CTO [@Sicuro](https://sicuro.it)
 
-Built Microservices in order to complement the web app solution with AI modules and features. `Technologies: Laravel, Python, Mysql, Nginx, WordPress.`
+Built Microservices in order to complement the web app solution with AI modules and features.
 
 ### 🇪🇸 Strategic CTO [@Compactor](https://compactorstore.com)
 
-Migration of old e-commerce to a new more modern tech stack composed of Odoo ERP, Magento 2, and Vuestorefront. Definition and creation of processes to handle accounting, logistics, and inventory management. `Technologies: Odoo, Magento 2, Vuestorefront (Vue.js, Elasticsearch, Redis), Nginx, WordPress.`
+Migration of old e-commerce to a new more modern tech stack composed of Odoo ERP, Magento 2, and Vuestorefront. Definition and creation of processes to handle accounting, logistics, and inventory management.
 
 ## Education
 
