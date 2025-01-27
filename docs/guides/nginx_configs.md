@@ -7,7 +7,7 @@ server {
     server_name {SERVER_NAME};
 
     location / {
-        proxy_pass http://localhost:5000;
+        proxy_pass http://localhost:8000;
         proxy_set_header Host $host;
         proxy_set_header X-Forwarded-Host $host:$server_port;
         proxy_set_header X-Forwarded-Server $host;

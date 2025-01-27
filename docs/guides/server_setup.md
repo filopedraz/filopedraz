@@ -23,7 +23,7 @@ sudo usermod -aG docker filippo
 DOCKER_COMPOSE_VERSION=$(curl -s https://api.github.com/repos/docker/compose/releases/latest | grep -Po '"tag_name": "\K[0-9.]+')
 sudo curl -L "https://github.com/docker/compose/releases/download/${DOCKER_COMPOSE_VERSION}/docker-compose-$(uname -s)-$(uname -m)" -o /usr/local/bin/docker-compose
 sudo chmod +x /usr/local/bin/docker-compose
-docker-compose --version
+docker compose --version
 ```
 
 ## 3. Install Nginx
@@ -61,4 +61,19 @@ sudo ufw allow ssh
 sudo ufw status
 sudo ufw app list
 sudo ufw allow 'Nginx HTTPS'
+```
+
+## 7. Create a `deployer` user and Generate SSH Key
+
+```bash
+adduser deployer
+usermod -aG docker deployer
+
+mkdir /home/deployer/.ssh
+chmod 700 /home/deployer/.ssh
+chown deployer:deployer /home/deployer/.ssh
+
+sudo -u deployer ssh-keygen -t ed25519 -f /home/deployer/.ssh/id_ed25519 -N ""
+cat /home/deployer/.ssh/id_ed25519.pub
+cat /home/deployer/.ssh/id_ed25519
 ```
