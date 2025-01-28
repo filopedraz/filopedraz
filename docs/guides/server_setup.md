@@ -76,4 +76,6 @@ chown deployer:deployer /home/deployer/.ssh
 sudo -u deployer ssh-keygen -t ed25519 -f /home/deployer/.ssh/id_ed25519 -N ""
 cat /home/deployer/.ssh/id_ed25519.pub
 cat /home/deployer/.ssh/id_ed25519
+
+cat /home/deployer/.ssh/id_ed25519.pub >> /home/deployer/.ssh/authorized_keys
 ```
