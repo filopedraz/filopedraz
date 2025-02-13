@@ -31,8 +31,14 @@ plugins=(
 - Python
 - Pylance
 - Python debugger
-- Ruff
 - markdownlint
 - Django
 - Rainbow CSV
 - Prettier
+- Live LLM Token Counter
+- Makefile tools
+- Ruff
+- Material Icon Theme
+- Prisma
+- Rainbow CSV
+- SVG
