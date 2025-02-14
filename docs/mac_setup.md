@@ -42,3 +42,14 @@ plugins=(
 - Prisma
 - Rainbow CSV
 - SVG
+
+### Figma Plugins
+
+- Todo
+- html.to.design
+- icns/ico Generator
+- Perspective Toolkit
+- Noise and Textures
+- Looper legacy
+- Isometric
+- Blobs
