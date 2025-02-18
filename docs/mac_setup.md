@@ -53,3 +53,4 @@ plugins=(
 - Looper legacy
 - Isometric
 - Blobs
+- Brandfetch
