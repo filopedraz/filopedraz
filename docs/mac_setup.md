@@ -54,3 +54,5 @@ plugins=(
 - Isometric
 - Blobs
 - Brandfetch
+- Unsplash
+- Vectorize Bitmap
