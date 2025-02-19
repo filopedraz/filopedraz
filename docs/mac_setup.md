@@ -56,3 +56,7 @@ plugins=(
 - Brandfetch
 - Unsplash
 - Vectorize Bitmap
+- Mockup Plugin
+- Tailwind CSS Color Generator
+- Mesh Gradient
+- Icons8 Background Remover
