@@ -42,6 +42,7 @@ plugins=(
 - Prisma
 - Rainbow CSV
 - SVG
+- Markdown All in One
 
 ### Figma Plugins
 

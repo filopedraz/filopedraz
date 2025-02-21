@@ -79,25 +79,3 @@ cat /home/deployer/.ssh/id_ed25519
 
 cat /home/deployer/.ssh/id_ed25519.pub >> /home/deployer/.ssh/authorized_keys
 ```
-
-## 8. Self Host GH Runners
-
-After the standard installation procedure, make sure that the user who handles the runners has enough permissions to delete the folders and the temporary files.
-
-```bash
-sudo chown -R filippo:filippo ~/actions-runner
-sudo chmod -R 755 ~/actions-runner
-
-mkdir -p ~/actions-runner/_work
-sudo chown -R filippo:filippo ~/actions-runner/_work
-sudo chmod -R 755 ~/actions-runner/_work
-```
-
-Some other dependencies probably necessary for the linter if you are using a Django stack and the default cookiecutter CI template:
-
-```bash
-sudo add-apt-repository ppa:deadsnakes/ppa
-sudo apt update
-sudo apt install python3.12 python3.12-venv
-sudo apt install python3-pip
-```
