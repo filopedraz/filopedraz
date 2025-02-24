@@ -43,6 +43,7 @@ plugins=(
 - Rainbow CSV
 - SVG
 - Markdown All in One
+- Tailwind CSS IntelliSense
 
 ### Figma Plugins
 
