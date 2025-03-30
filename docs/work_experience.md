@@ -2,6 +2,10 @@
 
 ## Work Experience
 
+### 🇨🇭 CTO [@Prem](https://premai.io)
+
+Scaled the team to 20+ people, shipped first products, and distributed training pipelines for SLMs fine-tuning and training on On-Prem cluster.
+
 ### 🇸🇪 CTO [@Grand](https://grand.io)
 
 Tech stack, product, and architecture definition. Backend Development, Code Reviews, and DevOps.
