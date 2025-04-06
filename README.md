@@ -10,7 +10,7 @@ My past roles include CTO at 🇨🇭 [Prem](https://premai.io), CTO at 🇸🇪
 
 ### 🛠️ Open Source
 
-Thinking... while vibe-coding...
+Shipping [Kosuke](https://github.com/filopedraz/kosuke-core), the first open-source vibe-coding platform.
 
 ### 🤙 Contact
 
