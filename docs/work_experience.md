@@ -6,11 +6,11 @@
 
 Scaled the team to 20+ people. Shipped first products (Prem Platform), and distributed training pipelines for SLMs fine-tuning and training on On-Prem cluster.
 
-### 🇸🇪 CTO [@Grand](https://grand.io)
+### 🇸🇪 CTO [@Grand]()
 
 Tech stack, product, and architecture definition. Backend Development, Code Reviews, and DevOps.
 
-### 🇸🇪 MLOps Engineer [@Gavagai](https://gavagai.io)
+### 🇸🇪 MLOps Engineer [@Gavagai]()
 
 Developing AI-powered chatbots to handle customer support. My contribution ranges from Machine Learning model development to Software Architecture design, with a specific focus on scalability. Our solution consists of a web application employing state-of-the-art technologies in natural language processing, machine learning, and deep learning.
 

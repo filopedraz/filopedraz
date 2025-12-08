@@ -6,7 +6,7 @@ I am a Computer Engineer with a Double Master in Data Science and Big Data.
 
 ### 💼 Work
 
-My past roles include CTO at 🇨🇭 [Prem](https://premai.io), CTO at 🇸🇪 [Grand](https://grand.io) and Data Engineer at 🇸🇪 [Gavagai](https://gavagai.io). Check out more about my experience [here](./docs/work_experience.md).
+My past roles include CTO at 🇨🇭 [Prem](https://premai.io), CTO at 🇸🇪 Grand and Data Engineer at 🇸🇪 Gavagai. Check out more about my experience [here](./docs/work_experience.md).
 
 ### 🛠️ Open Source
 
